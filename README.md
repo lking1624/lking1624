@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Logan King
-- 👀 I’m interested in Institutional Planning, Research, Assessment, and Effectiveness in the Higher Ed space.
-- 🌱 I’m currently learning excel, SQL, and Tableau. I am new and excited to learn as much as I can!
-- 💞️ I’m looking to collaborate on IR or Assessment data and dashboards.
-- 📫 You can reach me through email (kingr@wcu.edu) or my LinkedIn.
+- 👀 I’m interested in Institutional Research, Accreditation, and Effectiveness.
+- 📫 You can reach me through email (rking3387@haywood.edu) or my LinkedIn.
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I am a brother of Phi Mu Alpha Sinfonia, the largest secret society in music.
 
